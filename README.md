@@ -1,1 +1,0 @@
-# lovelive_boxsim
